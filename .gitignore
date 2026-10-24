@@ -19,3 +19,4 @@ data/
 datasets/
 examples/**/*/models/
 **/node_modules/
+uv.lock
